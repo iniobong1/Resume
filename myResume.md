@@ -18,23 +18,18 @@ A Graduate of Computer Science(Technology) with 3years experience in Customer Se
 
 ![](RackMultipart20210119-4-p96ile_html_e03d23d2508a08d3.gif)
 
-|
 - Empathy
 - Exceptional Call Handling
 - Persuasive Skills
 - Effective Listening
- |
 - Tact
 - First Contact Resolution
 - Customer Service Excellence (FCR)
 - Effective Communication
- |
 - Politeness
 - Record Keeping &amp; Reporting
 - Frontline Customer Service
 - Patience and Courtesy
- |
-| --- | --- | --- |
 
 ## Employment History
 
@@ -119,9 +114,7 @@ A Graduate of Computer Science(Technology) with 3years experience in Customer Se
 - Perform upgrades to ensure systems remain updated
 
 ## Education
-
 ![](RackMultipart20210119-4-p96ile_html_12a58335d3f31fec.gif)
-
 **Babcock University (Ogun State, Nigeria) 2014**
 
 - B.Sc. Computer Science(Technology) Second Class Upper
@@ -135,7 +128,6 @@ A Graduate of Computer Science(Technology) with 3years experience in Customer Se
 - First School Leaving Certificate
 
 **Key IT Skills**
-
 ![](RackMultipart20210119-4-p96ile_html_12a58335d3f31fec.gif)
 
 **Telephony Technology Proficiency**
@@ -159,9 +151,7 @@ A Graduate of Computer Science(Technology) with 3years experience in Customer Se
 **CompTIA A+ certified ce ( A+ ce)**
 
 ## Interest
-
 ![](RackMultipart20210119-4-p96ile_html_12a58335d3f31fec.gif)
-
 - Networking
 - Listening
 - Programming
